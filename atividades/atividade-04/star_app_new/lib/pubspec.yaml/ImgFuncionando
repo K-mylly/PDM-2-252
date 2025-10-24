@@ -1,0 +1,11 @@
+flutter:
+  assets:
+  - "Assets/images/background-Mocha.jpg"
+  - "Assets/images/background-bratzmaru.jpg"
+  - "Assets/images/background-kuromi.jpg"
+  - "Assets/images/background-helloKitty.png"
+
+  - "Assets/images/helloKitty.jpg"
+  - "Assets/images/kuromi.jpg"
+  - "Assets/images/bratz.png"
+  - "Assets/images/mocha04.jpg"
